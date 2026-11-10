@@ -1,9 +1,16 @@
 # CDR Version Converter (Trình Chuyển Đổi Phiên Bản CorelDRAW)
 
+[![Release](https://img.shields.io/github/v/release/zmon-bmt/Cdr-version-convert?color=blue&logo=github)](https://github.com/zmon-bmt/Cdr-version-convert/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/zmon-bmt/Cdr-version-convert/total?color=brightgreen)](https://github.com/zmon-bmt/Cdr-version-convert/releases/latest)
 [![Rust Version](https://img.shields.io/badge/rust-2021%20edition-orange.svg)](https://www.rust-lang.org/)
 [![GUI](https://img.shields.io/badge/GUI-egui%20%2F%20eframe%200.36-blue.svg)](https://github.com/emilk/egui)
 [![License](https://img.shields.io/badge/license-MIT%2FApache--2.0-green.svg)](LICENSE)
-[![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey.svg)]()
+[![Platform](https://img.shields.io/badge/platform-Windows%20x64-lightgrey.svg)]()
+
+> **Tải xuống bản dựng sẵn (Pre-built binary):**  
+> 📦 **[Tải file nén ZIP (Khuyên dùng - 4.3 MB)](https://github.com/zmon-bmt/Cdr-version-convert/releases/download/v0.1.0/cdr_converter-v0.1.0-windows-x64.zip)**  
+> ⚡ **[Tải file .exe trực tiếp (8.8 MB)](https://github.com/zmon-bmt/Cdr-version-convert/releases/download/v0.1.0/cdr_converter.exe)**  
+> 🔗 Xem chi tiết tại [Trang Releases](https://github.com/zmon-bmt/Cdr-version-convert/releases/tag/v0.1.0)
 
 Ứng dụng độc lập (standalone), hiệu năng cao được viết hoàn toàn bằng **Rust** giúp kiểm tra, phân tích và **hạ cấp (downgrade) phiên bản tệp CorelDRAW (`.cdr`)** từ các bản mới (2019, 2020, 2021, 2022) về các bản thấp hơn (X4, X5, X6, X7, X8, 2017, 2018...).
 
