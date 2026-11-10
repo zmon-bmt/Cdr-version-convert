@@ -1,0 +1,181 @@
+{
+  "version": 1,
+  "values": [
+    {
+      "name": "version_11",
+      "group": "versions",
+      "value": 1100,
+      "source": "string 0x1407f5950, function 0x1400a2632"
+    },
+    {
+      "name": "version_12",
+      "group": "versions",
+      "value": 1200,
+      "source": "string table 0x1407f5970"
+    },
+    {
+      "name": "version_x3",
+      "group": "versions",
+      "value": 1300,
+      "source": "function 0x140130350"
+    },
+    {
+      "name": "version_x4",
+      "group": "versions",
+      "value": 1400,
+      "source": "string 0x1407fd0a8, function 0x140121f10"
+    },
+    {
+      "name": "version_x5",
+      "group": "versions",
+      "value": 1500,
+      "source": "string 0x1407f5a60, function 0x140130350"
+    },
+    {
+      "name": "version_x6",
+      "group": "versions",
+      "value": 1600,
+      "source": "constant 0x640 in function 0x1400a2410"
+    },
+    {
+      "name": "version_x7",
+      "group": "versions",
+      "value": 1700,
+      "source": "string 0x1407f4913"
+    },
+    {
+      "name": "version_x8",
+      "group": "versions",
+      "value": 1800,
+      "source": "string 0x1407f9ab4, function 0x1400d006e"
+    },
+    {
+      "name": "version_2017",
+      "group": "versions",
+      "value": 1900,
+      "source": "constant 0x76c in version dispatch"
+    },
+    {
+      "name": "version_2018",
+      "group": "versions",
+      "value": 2000,
+      "source": "constant 0x7d0 in version dispatch"
+    },
+    {
+      "name": "version_2019",
+      "group": "versions",
+      "value": 2100,
+      "source": "menu shortcut 0x1407fd1a0"
+    },
+    {
+      "name": "version_2020",
+      "group": "versions",
+      "value": 2200,
+      "source": "constant 0x898 in version dispatch"
+    },
+    {
+      "name": "version_2021",
+      "group": "versions",
+      "value": 2300,
+      "source": "constant 0x8fc in version dispatch"
+    },
+    {
+      "name": "version_2022",
+      "group": "versions",
+      "value": 2400,
+      "source": "constant 0x960 in version dispatch"
+    },
+    {
+      "name": "version_2023",
+      "group": "versions",
+      "value": 2450,
+      "source": "CorelDRAW v24.x updates"
+    },
+    {
+      "name": "version_2024",
+      "group": "versions",
+      "value": 2500,
+      "source": "CorelDRAW v25.0"
+    },
+    {
+      "name": "version_2025",
+      "group": "versions",
+      "value": 2600,
+      "source": "CorelDRAW v26.0"
+    },
+    {
+      "name": "version_2026",
+      "group": "versions",
+      "value": 2700,
+      "source": "CorelDRAW v27.0"
+    },
+    {
+      "name": "riff_fourcc",
+      "group": "file_format",
+      "value": 1179011410,
+      "source": "function 0x140130350"
+    },
+    {
+      "name": "vrsn_fourcc",
+      "group": "file_format",
+      "value": 1853060214,
+      "source": "function 0x140130350"
+    },
+    {
+      "name": "outl_fourcc",
+      "group": "file_format",
+      "value": 1819636847,
+      "source": "function 0x140130350"
+    },
+    {
+      "name": "metadata_namespace",
+      "group": "metadata",
+      "value": "http://namespace.corel.com/Cdr/metadata",
+      "source": "function 0x140121f10"
+    },
+    {
+      "name": "default_target_version",
+      "group": "settings",
+      "value": 1400,
+      "source": "function 0x1400d006e"
+    },
+    {
+      "name": "default_suffix",
+      "group": "settings",
+      "value": "_x4",
+      "source": "function 0x1400d3900"
+    },
+    {
+      "name": "default_clean_junk",
+      "group": "settings",
+      "value": true,
+      "source": "function 0x1400d006e"
+    },
+    {
+      "name": "default_fix_outline",
+      "group": "settings",
+      "value": true,
+      "source": "function 0x1400d006e"
+    },
+    {
+      "name": "default_erase_high_ver",
+      "group": "settings",
+      "value": true,
+      "source": "function 0x1400d006e"
+    },
+    {
+      "name": "window_width",
+      "group": "ui",
+      "value": 780,
+      "unit": "px",
+      "estimated": true
+    },
+    {
+      "name": "window_height",
+      "group": "ui",
+      "value": 560,
+      "unit": "px",
+      "estimated": true
+    }
+  ]
+}
